@@ -989,11 +989,11 @@ export const spots = [
 ];
 
 export const categories = [
-    { id: "breakfast", label_jp: "朝食", label_en: "Breakfast", label_cn: "早餐", image: "./imeges/nav_breakfast.png" },
-    { id: "lunch", label_jp: "ランチ", label_en: "Lunch", label_cn: "午餐", image: "./imeges/nav_lunch.png" },
-    { id: "dinner", label_jp: "ディナー", label_en: "Dinner", label_cn: "晚餐", image: "./imeges/nav_dinner.png" },
-    { id: "supermarket", label_jp: "スーパー・コンビニ・薬局", label_en: "Stores", label_cn: "超市・便利店・药妆店", image: "./imeges/nav_stores.png" },
-    { id: "sightseeing", label_jp: "ビーチ・観光スポット", label_en: "Beaches & Sightseeing", label_cn: "海滩 & 观光景点", image: "./imeges/nav_sightseeing.png" },
-    { id: "okinawa-tourism", label_jp: "沖縄観光情報", label_en: "Okinawa Tourism", label_cn: "冲绳旅游信息", image: "./imeges/nav_okinawa_tourism.png", external_link: "https://www.okinawastory.jp/" }
+    { id: "breakfast", label_jp: "朝食", label_en: "Breakfast", label_cn: "早餐", image: "./imeges/nav_breakfast.jpg" },
+    { id: "lunch", label_jp: "ランチ", label_en: "Lunch", label_cn: "午餐", image: "./imeges/nav_lunch.jpg" },
+    { id: "dinner", label_jp: "ディナー", label_en: "Dinner", label_cn: "晚餐", image: "./imeges/nav_dinner.jpg" },
+    { id: "supermarket", label_jp: "スーパー・コンビニ・薬局", label_en: "Stores", label_cn: "超市・便利店・药妆店", image: "./imeges/nav_stores.jpg" },
+    { id: "sightseeing", label_jp: "ビーチ・観光スポット", label_en: "Beaches & Sightseeing", label_cn: "海滩 & 观光景点", image: "./imeges/nav_sightseeing.jpg" },
+    { id: "okinawa-tourism", label_jp: "沖縄観光情報", label_en: "Okinawa Tourism", label_cn: "冲绳旅游信息", image: "./imeges/nav_okinawa_tourism.jpg", external_link: "https://www.okinawastory.jp/" }
 ];
 

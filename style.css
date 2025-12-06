@@ -76,7 +76,7 @@ a {
   text-align: center;
   color: var(--color-white);
   /* より深みのあるグラデーションと画像 */
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url('./imeges/hero_section2.png');
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url('./imeges/hero_section2.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -103,7 +103,7 @@ a {
   max-width: 900px;
   z-index: 10;
   text-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  animation: fadeInUp 1.2s ease-out;
+  animation: fadeInUp 0.8s ease-out;
 }
 
 .hero-title-jp {

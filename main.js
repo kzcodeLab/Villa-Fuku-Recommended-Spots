@@ -23,7 +23,7 @@ function renderNavigation() {
     btn.className = 'nav-card';
     btn.innerHTML = `
       <div class="nav-card-image-wrapper">
-        <img src="${cat.image}" alt="${cat.label_en}" class="nav-card-image">
+        <img src="${cat.image}" alt="${cat.label_en}" class="nav-card-image" loading="lazy">
       </div>
       <div class="nav-card-label">
         <span class="nav-label-en">${cat.label_en}</span>
