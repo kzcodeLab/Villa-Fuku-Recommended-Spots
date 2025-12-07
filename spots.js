@@ -325,9 +325,9 @@ export const spots = [
         address: "3-11-1 Jicchaku, Urasoe",
         address_jp: "〒901-2122 沖縄県浦添市勢理客３丁目１１−１ アジャバシ ビル 1 階",
         address_en: "3-11-1 Jicchaku, Urasoe",
-        access_jp: "🚗 車で約3分 / 🚶 徒歩約10分",
-        access_en: "🚗 3 min by car / 🚶 10 min walk",
-        access_cn: "🚗 开车约3分钟 / 🚶 步行约10分钟",
+        access_jp: "🚗 車で約2分 / 🚶 徒歩約5分",
+        access_en: "🚗 2 min by car / 🚶 5 min walk",
+        access_cn: "🚗 开车约2分钟 / 🚶 步行约5分钟",
         tags: ["Dinner"]
     },
     {
@@ -369,9 +369,9 @@ export const spots = [
         address: "619-27 Aja, Naha",
         address_jp: "〒900-0003 沖縄県那覇市安謝６１９−２７",
         address_en: "619-27 Aja, Naha",
-        access_jp: "🚗 車で約5分 / 🚶 徒歩約15分",
-        access_en: "🚗 5 min by car / 🚶 15 min walk",
-        access_cn: "🚗 开车约5分钟 / 🚶 步行约15分钟",
+        access_jp: "🚗 車で約4分 / 🚶 徒歩約10分",
+        access_en: "🚗 4 min by car / 🚶 10 min walk",
+        access_cn: "🚗 开车约4分钟 / 🚶 步行约10分钟",
         tags: ["Breakfast", "Lunch", "Dinner"]
     },
     {
@@ -435,9 +435,9 @@ export const spots = [
         address: "619-28 Aja, Naha",
         address_jp: "〒900-0003 沖縄県那覇市安謝619-28",
         address_en: "619-28 Aja, Naha",
-        access_jp: "🚗 車で約5分 / 🚶 徒歩約15分",
-        access_en: "🚗 5 min by car / 🚶 15 min walk",
-        access_cn: "🚗 开车约5分钟 / 🚶 步行约15分钟",
+        access_jp: "🚗 車で約4分 / 🚶 徒歩約10分",
+        access_en: "🚗 4 min by car / 🚶 10 min walk",
+        access_cn: "🚗 开车约4分钟 / 🚶 步行约10分钟",
         tags: ["Dinner"]
     },
     {
@@ -741,9 +741,9 @@ export const spots = [
         address: "2-1-25 Jicchaku, Urasoe",
         address_jp: "〒901-2122 沖縄県浦添市勢理客２丁目１−２５",
         address_en: "2-1-25 Jicchaku, Urasoe",
-        access_jp: "🚗 車で約3分 / 🚶 徒歩約10分",
-        access_en: "🚗 3 min by car / 🚶 10 min walk",
-        access_cn: "🚗 开车约3分钟 / 🚶 步行约10分钟",
+        access_jp: "🚗 車で約2分 / 🚶 徒歩約6分",
+        access_en: "🚗 2 min by car / 🚶 6 min walk",
+        access_cn: "🚗 开车约2分钟 / 🚶 步行约6分钟",
         tags: ["Convenience Stores"]
     },
     {
@@ -785,9 +785,9 @@ export const spots = [
         address: "2-9-13 Jicchaku, Urasoe",
         address_jp: "〒901-2122 沖縄県浦添市勢理客２丁目９−１３",
         address_en: "2-9-13 Jicchaku, Urasoe",
-        access_jp: "🚗 車で約3分 / 🚶 徒歩約10分",
-        access_en: "🚗 3 min by car / 🚶 10 min walk",
-        access_cn: "🚗 开车约3分钟 / 🚶 步行约10分钟",
+        access_jp: "🚗 車で約2分 / 🚶 徒歩約5分",
+        access_en: "🚗 2 min by car / 🚶 5 min walk",
+        access_cn: "🚗 开车约2分钟 / 🚶 步行约5分钟",
         tags: ["Supermarkets"]
     },
     {
@@ -807,7 +807,9 @@ export const spots = [
         address: "664-32 Aja, Naha",
         address_jp: "〒900-0003 沖縄県那覇市安謝６６４−３２",
         address_en: "664-32 Aja, Naha",
-        access: "8 min by car",
+        access_jp: "🚗 車で約4分",
+        access_en: "🚗 4 min by car",
+        access_cn: "🚗 开车约4分钟",
         tags: ["Supermarkets"]
     },
     {
@@ -893,9 +895,9 @@ export const spots = [
         address: "115-1 Iso, Urasoe",
         address_jp: "〒901-2132 沖縄県浦添市伊祖１１５−１",
         address_en: "115-1 Iso, Urasoe",
-        access_jp: "🚗 車で約20分",
-        access_en: "🚗 20 min by car",
-        access_cn: "🚗 开车约20分钟",
+        access_jp: "🚗 車で約15分",
+        access_en: "🚗 15 min by car",
+        access_cn: "🚗 开车约15分钟",
         tags: ["Sightseeing"]
     },
     {
@@ -920,28 +922,7 @@ export const spots = [
         access_cn: "🚗 开车约15分钟",
         tags: ["Sightseeing"]
     },
-    {
-        id: 45,
-        category: "sightseeing",
-        name_jp: "国立劇場おきなわ",
-        name_en: "National Theatre Okinawa",
-        name_cn: "国立剧场冲绳",
-        description_jp: "組踊などの沖縄伝統芸能を上演する劇場。伝統的な建築様式も見どころ。",
-        description_en: "Theater performing Okinawa traditional arts like Kumiodori. Traditional architecture is a highlight.",
-        description_cn: "上演组踊等冲绳传统艺能的剧场。传统建筑样式也是看点。",
-        image: "./imeges/National Theatre Okinawa.png",
-        map_link: "https://www.google.com/maps/place/%E5%9B%BD%E7%AB%8B%E5%8A%87%E5%A0%B4%E3%81%8A%E3%81%8D%E3%81%AA%E3%82%8F/@26.2461977,127.6861327,17z/data=!3m2!4b1!5s0x34e56bb649fc64b3:0x7f6f9471dd7fd6c4!4m6!3m5!1s0x34e56bb637c214cb:0x7d6386482a4a6872!8m2!3d26.2461929!4d127.6887076!16s%2Fg%2F12384qbq?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
-        hours: "10:00 - 18:00 (Closed: Mon)",
-        payment: "Credit, Cash",
-        price: "Varies",
-        address: "4-14-1 Jitchaku, Urasoe",
-        address_jp: "〒901-2122 沖縄県浦添市勢理客２丁目９−１３",
-        address_en: "4-14-1 Jitchaku, Urasoe",
-        access_jp: "🚗 車で約8分",
-        access_en: "🚗 8 min by car",
-        access_cn: "🚗 开车约8分钟",
-        tags: ["Sightseeing"]
-    },
+
     {
         id: 46,
         category: "sightseeing",
@@ -959,9 +940,9 @@ export const spots = [
         address: "3-1-1 Irijima, Urasoe",
         address_jp: "〒901-2507 沖縄県浦添市西洲３丁目１−１",
         address_en: "3-1-1 Irijima, Urasoe",
-        access_jp: "🚗 車で約10分",
-        access_en: "🚗 10 min by car",
-        access_cn: "🚗 开车约10分钟",
+        access_jp: "🚗 車で約8分",
+        access_en: "🚗 8 min by car",
+        access_cn: "🚗 开车约8分钟",
         tags: ["Shopping"]
     },
     {
@@ -985,6 +966,50 @@ export const spots = [
         access_en: "🚗 8 min by car",
         access_cn: "🚗 开车约8分钟",
         tags: ["Drugstores"]
+    },
+    {
+        id: 48,
+        category: "lunch",
+        name_jp: "彦 本店",
+        name_en: "Hiko Honten",
+        name_cn: "彦 本店",
+        description_jp: "国産うなぎを使用したうなぎ蒲焼きや日本料理、握り寿司など、丁寧な仕事が光る料理を、落ち着いた雰囲気の中でゆっくり味わえます。",
+        description_en: "Enjoy carefully prepared dishes such as grilled domestic eel, Japanese cuisine, and nigiri sushi in a relaxing atmosphere.",
+        description_cn: "在宁静的氛围中，慢慢品尝使用国产鳗鱼制作的蒲烧鳗鱼、日本料理、握寿司等做工精细的料理。",
+        image: "./imeges/hiko honten.png",
+        map_link: "https://www.google.com/maps/place/%E5%BD%A6+%E6%9C%AC%E5%BA%97/@26.2261956,127.6987207,16z/data=!3m1!5s0x34e56bde9705d213:0x8ac25b3bb5c06a76!4m6!3m5!1s0x34e56bde970a5d4f:0x8ee22d85718f3df7!8m2!3d26.2261956!4d127.6987207!16s%2Fg%2F1tl7lgl0?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D",
+        hours: "11:30 - 14:30, 17:30 - 20:30",
+        payment: "Cash, Credit Card, e-Money",
+        price: "¥3,000 - ¥4,000",
+        address: "4-15-3 Omoromachi, Naha",
+        address_jp: "〒900-0006 沖縄県那覇市おもろまち４丁目15番3号",
+        address_en: "4-15-3 Omoromachi, Naha",
+        access_jp: "🚗 車で約9分",
+        access_en: "🚗 9 min by car",
+        access_cn: "🚗 开车约9分钟",
+        tags: ["Lunch", "Dinner"]
+    },
+    {
+        id: 49,
+        category: "lunch",
+        name_jp: "びっくりドンキーりうぼう天久店",
+        name_en: "Bikkuri Donkey Ryubo Ameku",
+        name_cn: "Bikkuri Donkey Ryubo Ameku",
+        description_jp: "ハンバーグが名物のファミリーレストランです。ハンバーグを中心とした洋食メニューが揃い、家族連れから学生まで幅広い層に人気のお店です。",
+        description_en: "A family restaurant famous for its hamburger steaks. Offers a variety of Western-style dishes centered on hamburger steaks, popular with families and students.",
+        description_cn: "以汉堡肉闻名的家庭餐厅。提供以汉堡肉为中心的各种西餐菜单，深受家庭和学生的喜爱。",
+        image: "./imeges/Bikkuri Donkey.png",
+        map_link: "https://www.google.com/maps/place/%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%89%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%8A%E3%81%86%E3%81%BC%E3%81%86%E5%A4%A9%E4%B9%85%E5%BA%97/@26.2247895,127.6794969,14.25z/data=!4m6!3m5!1s0x34e56bd74d54ae2f:0xd7ea8f1c195781d1!8m2!3d26.2292672!4d127.6910795!16s%2Fg%2F1tcwcr1m?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D",
+        hours: "09:00 - 00:00",
+        payment: "Cash, Credit Card, e-Money",
+        price: "¥1,000 - ¥2,000",
+        address: "1-1-1 Ameku, Naha",
+        address_jp: "〒900-0005 沖縄県那覇市天久１丁目１−１",
+        address_en: "1-1-1 Ameku, Naha",
+        access_jp: "🚗 車で約6分",
+        access_en: "🚗 6 min by car",
+        access_cn: "🚗 开车约6分钟",
+        tags: ["Breakfast", "Lunch", "Dinner"]
     }
 ];
 
