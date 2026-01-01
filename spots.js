@@ -936,7 +936,7 @@ export const spots = [
         description_jp: "ジミー那覇店は、自社工場直送のパンやケーキ、クッキーが揃う大型ショップです。お土産選びはもちろん、併設レストランでブッフェや洋食も楽しめます。",
         description_en: "Jimmy Naha is a large flagship shop offering factory-fresh breads, cakes, and cookies. It’s great for souvenirs, and the attached restaurant serves a popular buffet and Western-style dishes.",
         description_cn: "吉米那霸店是规模较大的旗舰店，汇集自家工厂直送的面包、蛋糕和曲奇。既适合选购伴手礼，也可以在附设餐厅享用自助餐和西式料理。",
-        image: "./imeges/Jimmy.png",
+        image: "./imeges/jimmy.png",
         map_link: "https://www.google.com/maps/place/%E3%82%B8%E3%83%9F%E3%83%BC+%E9%82%A3%E8%A6%87%E5%BA%97/@26.2345352,127.691211,16z/data=!4m14!1m7!3m6!1s0x34e56b4a92a5010b:0xa9b026ac042c0a2c!2sVilla+Fuku!8m2!3d26.241054!4d127.6944108!16s%2Fg%2F11mrd89rtx!3m5!1s0x34e56b34a544d4e7:0xacc5850f8207b431!8m2!3d26.2376722!4d127.6956481!16s%2Fg%2F1td1gr8y?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
         hours: "09:00 - 21:00",
         payment: "Cash, Credit Card",
